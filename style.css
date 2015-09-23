@@ -1,19 +1,26 @@
 #header {
 	background-color: white;
 	margin-top: 10px;
+	border-style: groove;
 }
 
 #main {
 	background-color: white;
 	margin-top: 10px;
+	border-style: groove;
 }
 
 #footer {
 	background-color: white;
 	margin-top: 10px; 
+	border-style: groove;
 }
 
 body {
 	background-color: grey;
+}
+
+#Text {
+	border: outset black 1px;
 }
 
