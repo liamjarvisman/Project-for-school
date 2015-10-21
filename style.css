@@ -19,6 +19,15 @@
 	border-style: groove;
 }
 
+#links {
+
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+
+}
+
 body {
 	background-color: grey;
 }
@@ -36,4 +45,30 @@ body {
 	text-align: left;
 
 }
+
+#text4 {
+
+	text-align: left;
+
+}
+
+a:hover {
+
+	color:red; 
+	background-color:grey; 
+	text-decoration:underline;
+
+}
+
+img {
+    border: 4px solid #fff;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+}
+
+#image {
+	text-align: center;
+}
+
 
