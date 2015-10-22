@@ -3,6 +3,10 @@
 	text-align: center;
 	background-color: white;
 	border-style: groove;
+	border-color: #41FF47;
+	margin-left: 10px;
+	margin-right: 10px;
+
 }
 
 #main {
@@ -10,6 +14,9 @@
 	text-align: center;
 	background-color: white;
 	border-style: groove;
+	border-color: #41FF47;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #footer {
@@ -17,6 +24,10 @@
 	text-align: center;
 	background-color: white;
 	border-style: groove;
+	border-color: #41FF47;
+	margin-left: 10px;
+	margin-right: 10px;
+
 }
 
 #links {
@@ -26,10 +37,12 @@
 	background-color: white;
 	border-style: groove;
 
+
 }
 
 body {
-	background-color: grey;
+	background-color: black;
+	border:5px ridge #41FF47;
 }
 
 #text1 {
