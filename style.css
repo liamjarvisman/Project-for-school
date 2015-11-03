@@ -42,7 +42,6 @@
 
 body {
 	background-color: black;
-	border:5px ridge #41FF47;
 }
 
 #text1 {
@@ -62,25 +61,29 @@ body {
 #text4 {
 
 	text-align: left;
-
-}
-
-a:hover {
-
-	color:red; 
-	background-color:grey; 
-	text-decoration:underline;
-
+	
 }
 
 img {
     border: 4px solid #fff;
-    -moz-border-radius: 30px;
-    -webkit-border-radius: 30px;
+    border-radius: 30px;
+	border-radius: 30px;
     border-radius: 30px;
 }
 
 #image {
+	text-align: center;
+}
+
+#left {
+	text-align: left;
+}
+
+#right {
+	text-align: right;
+}
+
+#center {
 	text-align: center;
 }
 
